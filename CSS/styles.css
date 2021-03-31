@@ -1,0 +1,8 @@
+p.spacing {
+    line-height: 1.8em;
+}
+p.less_space {
+    word-spacing: -.1em;
+}
+
+
